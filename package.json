@@ -12,7 +12,8 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.1",
-    "mongoose": "^8.7.1"
+    "mongoose": "^8.7.1",
+    "task2-backend": "file:"
   },
   "devDependencies": {
     "nodemon": "^3.1.7"
